@@ -4,4 +4,4 @@
 2. >node index.mjs
 
 ### Demo Video 🎥
-<video src="https://github.com/algobasket/RTX-5090-Availability-Checker/raw/refs/heads/main/video.mp4" controls width="600"></video>
+https://github.com/user-attachments/assets/09ede814-ee96-4437-9571-ecbb40c8e51d
